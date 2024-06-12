@@ -41,6 +41,9 @@ class Metrics(object):
             f1_scores[tag] = 2 * p * r / (p + r + 1e-10)
         return f1_scores
 
+    def average_precision_value(self):
+        return self._cal_weighted_average()['precision']
+
     def average_precision(self):
         avg_metrics = self._cal_weighted_average()
         print(f"Average Precision: {avg_metrics['precision']:.4f}")
