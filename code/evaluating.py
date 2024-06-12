@@ -1,8 +1,16 @@
 from collections import Counter
 import matplotlib.pyplot as plt
 import numpy as np
-from utils import flatten_lists
 import seaborn as sns
+
+def flatten_lists(lists):
+    flatten_list = []
+    for l in lists:
+        if type(l) == list:
+            flatten_list += l
+        else:
+            flatten_list.append(l)
+    return flatten_list
 
 
 class Metrics(object):

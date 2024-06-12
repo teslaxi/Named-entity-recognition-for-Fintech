@@ -15,8 +15,8 @@
   - Responsible for the initial topic selection
   - Completed the screening of large model prompts
   - Collected news data and used large models for labeling
-  - Completed all code-related tasks
-  - Completed all paper-related tasks
+  - Completed **all** code-related tasks
+  - Completed **all** paper-related tasks
   - Prepared the presentation slides and delivered the presentation
   - Completed data cleaning and visualization
   - Created all schematic diagrams and illustrations in the paper
@@ -44,7 +44,6 @@
 │      test.char.bmes
 │      train.char.bmes
 │  evaluating.py 
-│  utils.py
 ├─ pic
 │  	   Confusion Matrix HMM.png
 │  	   Confusion Matrix CRF.png

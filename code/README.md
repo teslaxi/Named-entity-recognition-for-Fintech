@@ -23,7 +23,6 @@
 │      test.char.bmes
 │      train.char.bmes
 │  evaluating.py 
-│  utils.py
 ├─ pic
 │  	   Confusion Matrix HMM.png
 │  	   Confusion Matrix CRF.png
