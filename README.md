@@ -8,6 +8,27 @@
 
 `Author` Yixi Zhou
 
+## Division of Tasks within the Group
+
+- Yixi Zhou (2022533012):
+  - Group leader
+  - Responsible for the initial topic selection
+  - Completed the screening of large model prompts
+  - Collected news data and used large models for labeling
+  - Completed all code-related tasks
+  - Completed all paper-related tasks
+  - Prepared the presentation slides and delivered the presentation
+  - Completed data cleaning and visualization
+  - Created all schematic diagrams and illustrations in the paper
+  - Prepared the README and file progress management
+  - Prepared the final defense
+- Jingyi Zeng (2022533028):
+  - Responsible for collecting news data and using large models for labeling
+- Qianru Li (2022533142):
+  - Responsible for collecting news data and using large models for labeling
+  - Fixed some grammar problems in the paper 
+  - Test the correctness of the code
+
 ## Project Structure
 
 ```
